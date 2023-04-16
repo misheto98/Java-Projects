@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/untitled/19220МОП.iml" filepath="$PROJECT_DIR$/untitled/19220МОП.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstract/Abstraction.iml" filepath="$PROJECT_DIR$/Abstract/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CallingConstructors/CallingConstructors.iml" filepath="$PROJECT_DIR$/CallingConstructors/CallingConstructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClasesAndObjects/ClasesAndObjects.iml" filepath="$PROJECT_DIR$/ClasesAndObjects/ClasesAndObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoffeeMachine/CoffeeMachine.iml" filepath="$PROJECT_DIR$/CoffeeMachine/CoffeeMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructors/Constructors.iml" filepath="$PROJECT_DIR$/Constructors/Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FolkGroup/FolkGroup.iml" filepath="$PROJECT_DIR$/FolkGroup/FolkGroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaClassAttributes/JavaClassAttributes.iml" filepath="$PROJECT_DIR$/JavaClassAttributes/JavaClassAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP1/OOP1.iml" filepath="$PROJECT_DIR$/OOP1/OOP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_METHODS/OOP_METHODS.iml" filepath="$PROJECT_DIR$/OOP_METHODS/OOP_METHODS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_TOTO/OOP_TOTO.iml" filepath="$PROJECT_DIR$/OOP_TOTO/OOP_TOTO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPP_19220.iml" filepath="$PROJECT_DIR$/OPP_19220.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadingFromFile/ReadingFromFile.iml" filepath="$PROJECT_DIR$/ReadingFromFile/ReadingFromFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tema15/Tema15.iml" filepath="$PROJECT_DIR$/Tema15/Tema15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkingWithClases/WorkingWithClases.iml" filepath="$PROJECT_DIR$/WorkingWithClases/WorkingWithClases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zad/Zad.iml" filepath="$PROJECT_DIR$/Zad/Zad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zad1/Zad1.iml" filepath="$PROJECT_DIR$/Zad1/Zad1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zad2/Zad2.iml" filepath="$PROJECT_DIR$/Zad2/Zad2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daniNaZaem/daniNaZaem.iml" filepath="$PROJECT_DIR$/daniNaZaem/daniNaZaem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/defineOwnClass/defineOwnClass.iml" filepath="$PROJECT_DIR$/defineOwnClass/defineOwnClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zadddd1/zadddd1.iml" filepath="$PROJECT_DIR$/zadddd1/zadddd1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Еx3/Еx3.iml" filepath="$PROJECT_DIR$/Еx3/Еx3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Наследяване/Наследяване.iml" filepath="$PROJECT_DIR$/Наследяване/Наследяване.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Свързване с база данни/Свързване с база данни.iml" filepath="$PROJECT_DIR$/Свързване с база данни/Свързване с база данни.iml" />
+    </modules>
+  </component>
+</project>
